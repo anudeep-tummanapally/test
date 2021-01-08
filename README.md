@@ -3,4 +3,3 @@
 ## Contributors
 
 * Anuraag
-* Anudeep
